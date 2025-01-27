@@ -16,3 +16,5 @@ JavaScript on its own is **dynamically typed**
 [JavaScript With Syntax For Types.](https://www.typescriptlang.org/)
 
 [Adding TypeScript | Create React App](https://create-react-app.dev/docs/adding-typescript)
+
+[Getting Started](https://vite.dev/guide/)
